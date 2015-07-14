@@ -22,7 +22,7 @@ When you setup your connection, please note the following:
 * Use port 6667 to connect;
 * Your [password is provided by Gitter](https://irc.gitter.im);
 * Room name is 'WICG/admin' (without the quotes);
-* To mention someone, prefix their name with an '@'.
+* To mention someone in Gitter, prefix their name with an `@`.
 
 #### Chatzilla
 
