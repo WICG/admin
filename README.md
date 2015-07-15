@@ -18,9 +18,11 @@ You can join via IRC.
 
 When you setup your connection, please note the following:
 
-* Gitter only works over a SSL connection
-* Use port 6667 to connect
-* Room name is 'WICG/admin' (without the quotes)
+* Gitter only works over a SSL connection;
+* Use port 6667 to connect;
+* Your [password is provided by Gitter](https://irc.gitter.im);
+* Room name is 'WICG/admin' (without the quotes);
+* To mention someone in Gitter, prefix their name with an `@`.
 
 #### Chatzilla
 
@@ -28,7 +30,7 @@ Follow these steps to connect to IRC via Chatzilla:
 
 1. Open Chatzilla
 2. Use the following command to connect: `/sslserver irc.gitter.im:6667 password nickname`
-3. Join the room `/join WICG/admin`
+3. Join the room: `/join WICG/admin`
 
 #### Colloquy
 
