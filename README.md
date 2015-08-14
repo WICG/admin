@@ -14,6 +14,7 @@ Instructions for [connecting to Gitter over IRC](https://github.com/WICG/admin/w
 None yet. See below for how to make one!
 
 ### Contributing New Proposals
+The following is given as guidance. It's is not a requirement for starting work on a proposal.
 
 **Please [join the WICG](https://www.w3.org/community/wicg/) before submitting new proposals.**
 
