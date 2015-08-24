@@ -25,3 +25,18 @@ The following is given as guidance. It's is not a requirement for starting work 
  1. **Advocate**: We circulate this with browser vendors and the community at large—we pitch it to anyone who will listen. Getting everyone on-board and in our corner is critical.
  1. **Specify it**: Once we have buy-in from browser vendors and the community, we put together some rough proposals (e.g., a new HTML element, API, or HTTP header...) and we do an "<a href="http://w3c.github.io/charter-html/request-to-transition.html">intent to migrate</a>": where we move the spec to a W3C Working group to seek royalty free licensing commitments from W3C members (you know, the "free" in "free and open").
  1. **(Bonus points) Implementation**: Help turn the ideas from words on paper into working features in modern browsers.
+
+## Code of Conduct
+We operate under the W3C's Code of [Ethics and Professional Conduct](http://www.w3.org/Consortium/cepc/), for which we will:
+
+ 1. Treat each other with respect, professionalism, fairness, and sensitivity to our many differences and strengths, including in situations of high pressure and urgency.
+ 1. Never harass or bully anyone verbally, physically or sexually.
+ 1. Never discriminate on the basis of personal characteristics or group membership.
+ 1. Communicate constructively and avoid demeaning or insulting behavior or language.
+ 1. Seek, accept, and offer objective work criticism, and acknowledge properly the contributions of others.
+ 1. Be honest about your own qualifications, and about any circumstances that might lead to conflicts of interest.
+ 1. Respect the privacy of others and the confidentiality of data you access.
+ 1. With respect to cultural differences, be conservative in what you do and liberal in what you accept from others, but not to the point of accepting disrespectful, unprofessional or unfair behavior.
+ 1. Promote the rules of this Code and take action (especially if you are in a leadership position) to bring the discussion back to a more civil level whenever inappropriate behaviors are observed.
+
+
