@@ -27,7 +27,7 @@ The following is given as guidance. It's is not a requirement for starting work 
  1. **(Bonus points) Implementation**: Help turn the ideas from words on paper into working features in modern browsers.
 
 ## Code of Conduct
-We operate under the W3C's Code of [Ethics and Professional Conduct](http://www.w3.org/Consortium/cepc/), for which we will:
+We operate under the W3C's [Code of Ethics and Professional Conduct](http://www.w3.org/Consortium/cepc/), for which we will:
 
  1. Treat each other with respect, professionalism, fairness, and sensitivity to our many differences and strengths, including in situations of high pressure and urgency.
  1. Never harass or bully anyone verbally, physically or sexually.
