@@ -39,6 +39,6 @@ We operate under the W3C's [Code of Ethics and Professional Conduct](http://www.
  1. With respect to cultural differences, be conservative in what you do and liberal in what you accept from others, but not to the point of accepting disrespectful, unprofessional or unfair behavior.
  1. Promote the rules of this Code and take action (especially if you are in a leadership position) to bring the discussion back to a more civil level whenever inappropriate behaviors are observed.
 
-The same rules apply to our Discourse instance (see also our [Discourse TOS](http://discourse.wicg.io/tos).
+The same rules apply to our Discourse instance (see also our [Discourse FAQ](http://discourse.wicg.io/faq).
 
 If you experience any violations to the above by any participant, please contact the Chairs or the W3C Head of Communications ([Coralie Mercier](mailto:coralie@w3.org)). To make amendments to the W3C's Code of Conduct, please subscribe to the [W3C Positive Work Environment mailing list](https://lists.w3.org/Archives/Public/public-pwe/) or email [Coralie Mercier](mailto:coralie@w3.org).
