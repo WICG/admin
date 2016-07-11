@@ -11,7 +11,7 @@ Instructions for [connecting to Gitter over IRC](https://github.com/WICG/admin/w
 
 ## Current Proposals
 
-None yet. See below for how to make one!
+Proposals are visible at the organization level (see [all the WICG repositories](https://github.com/WICG/)).
 
 ### Contributing New Proposals
 The following is given as guidance. It's is not a requirement for starting work on a proposal.
