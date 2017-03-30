@@ -1,4 +1,8 @@
 {
+	"FEATURE-POLICY": {
+		"href": "https://wicg.github.io/feature-policy/",
+		"title": "Feature Policy" 
+	},
 	"WEB-BACKGROUND-SYNC": {
 		"href": "https://wicg.github.io/BackgroundSync/spec/",
 		"title": "Web Background Synchronization specification draft"
