@@ -3,6 +3,10 @@
 		"href": "https://wicg.github.io/feature-policy/",
 		"title": "Feature Policy" 
 	},
+	"MEDIASESSION": {
+		"href": "https://wicg.github.io/mediasession/",
+		"title": "Media Session" 
+	},
 	"WEB-BACKGROUND-SYNC": {
 		"href": "https://wicg.github.io/BackgroundSync/spec/",
 		"title": "Web Background Synchronization specification draft"
