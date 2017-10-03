@@ -3,13 +3,25 @@
 		"href": "https://wicg.github.io/feature-policy/",
 		"title": "Feature Policy" 
 	},
+	"MEDIA-CAPABILITIES": {
+		"href": "https://wicg.github.io/media-capabilities/",
+		"title": "Media Capabilities" 
+	},
 	"MEDIASESSION": {
 		"href": "https://wicg.github.io/mediasession/",
 		"title": "Media Session" 
 	},
+	"NETINFO": {
+		"href": "https://wicg.github.io/netinfo/",
+		"title": "Network Information API" 
+	},
 	"WEB-BACKGROUND-SYNC": {
 		"href": "https://wicg.github.io/BackgroundSync/spec/",
 		"title": "Web Background Synchronization"
+	},
+	"WEB-SHARE": {
+		"href": "https://wicg.github.io/web-share/",
+		"title": "Web Share API"
 	},
 	"WEBUSB": {
 		"href": "https://wicg.github.io/webusb/",
