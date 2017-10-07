@@ -1,4 +1,8 @@
 {
+	"ENTRIES-API": {
+		"href": "https://wicg.github.io/entries-api/",
+		"title": "File and Directory Entries API" 
+	},
 	"FEATURE-POLICY": {
 		"href": "https://wicg.github.io/feature-policy/",
 		"title": "Feature Policy" 
