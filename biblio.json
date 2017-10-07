@@ -1,4 +1,8 @@
 {
+	"BACKGROUND-FETCH": {
+		"href": "https://wicg.github.io/background-fetch/",
+		"title": "Background Fetch" 
+	},
 	"ENTRIES-API": {
 		"href": "https://wicg.github.io/entries-api/",
 		"title": "File and Directory Entries API" 
