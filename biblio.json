@@ -23,6 +23,10 @@
 		"href": "https://wicg.github.io/netinfo/",
 		"title": "Network Information API" 
 	},
+	"RESIZE-OBSERVER": {
+		"href": "https://wicg.github.io/ResizeObserver/",
+		"title": "Resize Observer" 
+	},
 	"WEB-BACKGROUND-SYNC": {
 		"href": "https://wicg.github.io/BackgroundSync/spec/",
 		"title": "Web Background Synchronization"
