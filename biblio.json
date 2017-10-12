@@ -11,6 +11,10 @@
 		"href": "https://wicg.github.io/feature-policy/",
 		"title": "Feature Policy" 
 	},
+	"GEOLOCATION-SENSOR": {
+		"href": "https://wicg.github.io/geolocation-sensor/",
+		"title": "Geolocation Sensor"
+	},
 	"MEDIA-CAPABILITIES": {
 		"href": "https://wicg.github.io/media-capabilities/",
 		"title": "Media Capabilities" 
