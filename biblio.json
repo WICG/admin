@@ -1,35 +1,71 @@
 {
+	"AOM": {
+		"href": "https://wicg.github.io/aom/spec/",
+		"title": "Accessibility Object Model"
+	},
 	"BACKGROUND-FETCH": {
 		"href": "https://wicg.github.io/background-fetch/",
-		"title": "Background Fetch" 
+		"title": "Background Fetch"
+	},
+	"BUDGET-API": {
+		"href": "https://wicg.github.io/budget-api/",
+		"title": "Web Budget API"
+	},
+	"CSS-ANIMATION-WORKLET": {
+		"href": "https://wicg.github.io/animation-worklet/",
+		"title": "CSS Animation Worklet API"
+	},
+	"CSS-SCROLL-BOUNDARY-BEHAVIOR": {
+		"href": "https://wicg.github.io/scroll-boundary-behavior/",
+		"title": "CSS Scroll Boundary Behavior Module Level 1"
+	},
+	"CORS-RFC1918": {
+		"href": "https://wicg.github.io/cors-rfc1918/",
+		"title": "CORS and RFC1918"
 	},
 	"ENTRIES-API": {
 		"href": "https://wicg.github.io/entries-api/",
-		"title": "File and Directory Entries API" 
+		"title": "File and Directory Entries API"
 	},
 	"FEATURE-POLICY": {
 		"href": "https://wicg.github.io/feature-policy/",
-		"title": "Feature Policy" 
+		"title": "Feature Policy"
 	},
 	"GEOLOCATION-SENSOR": {
 		"href": "https://wicg.github.io/geolocation-sensor/",
 		"title": "Geolocation Sensor"
 	},
+	"INPUT-DEVICE-CAPABILITIES": {
+		"href": "https://wicg.github.io/InputDeviceCapabilities/",
+		"title": "InputDeviceCapabilities"
+	},
 	"MEDIA-CAPABILITIES": {
 		"href": "https://wicg.github.io/media-capabilities/",
-		"title": "Media Capabilities" 
+		"title": "Media Capabilities"
 	},
 	"MEDIASESSION": {
 		"href": "https://wicg.github.io/mediasession/",
-		"title": "Media Session" 
+		"title": "Media Session"
+	},
+	"MST-CONTENT-HINT": {
+		"href": "https://wicg.github.io/mst-content-hint/",
+		"title": "MediaStreamTrack Content Hints"
 	},
 	"NETINFO": {
 		"href": "https://wicg.github.io/netinfo/",
-		"title": "Network Information API" 
+		"title": "Network Information API"
 	},
 	"RESIZE-OBSERVER": {
 		"href": "https://wicg.github.io/ResizeObserver/",
-		"title": "Resize Observer" 
+		"title": "Resize Observer"
+	},
+	"SCROLL-ANIMATIONS": {
+		"href": "https://wicg.github.io/scroll-animations/",
+		"title": "Scroll-linked Animations"
+	},
+	"SHAPE-DETECTION-API": {
+		"href": "https://wicg.github.io/shape-detection-api/",
+		"title": "Accelerated Shape Detection in Images"
 	},
 	"WEB-BACKGROUND-SYNC": {
 		"href": "https://wicg.github.io/BackgroundSync/spec/",
