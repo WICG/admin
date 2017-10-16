@@ -37,7 +37,7 @@
 	},
 	"INPUT-DEVICE-CAPABILITIES": {
 		"href": "https://wicg.github.io/InputDeviceCapabilities/",
-		"title": "InputDeviceCapabilities"
+		"title": "Input Device Capabilities"
 	},
 	"MEDIA-CAPABILITIES": {
 		"href": "https://wicg.github.io/media-capabilities/",
