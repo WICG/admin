@@ -1,6 +1,6 @@
 # WICG admininstration repository
 This repo is for administration of the community group.
-
+ * [Tranfering a repo to WICG](https://github.com/WICG/admin/wiki/Process-to-transfer-a-repo)
  * [Charter](https://wicg.github.io/admin/charter.html)
  * [Intent to migrate](https://wicg.github.io/admin/intent-to-migrate.html)
 
