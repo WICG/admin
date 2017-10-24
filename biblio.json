@@ -71,6 +71,10 @@
 		"href": "https://wicg.github.io/shape-detection-api/",
 		"title": "Accelerated Shape Detection in Images"
 	},
+	"VIEWPORT-API": {
+		"href": "https://wicg.github.io/ViewportAPI/spec.html",
+		"title": "Visual Viewport API"
+	},
 	"WEB-BACKGROUND-SYNC": {
 		"href": "https://wicg.github.io/BackgroundSync/spec/",
 		"title": "Web Background Synchronization"
