@@ -59,6 +59,10 @@
 		"href": "https://wicg.github.io/ResizeObserver/",
 		"title": "Resize Observer"
 	},
+	"REPORTING": {
+		"href": "https://wicg.github.io/reporting/",
+		"title": "Reporting API"
+	},
 	"SCROLL-ANIMATIONS": {
 		"href": "https://wicg.github.io/scroll-animations/",
 		"title": "Scroll-linked Animations"
