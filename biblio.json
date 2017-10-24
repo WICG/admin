@@ -55,6 +55,10 @@
 		"href": "https://wicg.github.io/netinfo/",
 		"title": "Network Information API"
 	},
+	"ORIGIN-POLICY": {
+		"href": "https://wicg.github.io/origin-policy/",
+		"title": "Origin Policy"
+	},
 	"RESIZE-OBSERVER": {
 		"href": "https://wicg.github.io/ResizeObserver/",
 		"title": "Resize Observer"
