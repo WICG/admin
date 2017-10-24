@@ -43,6 +43,10 @@
 		"href": "https://wicg.github.io/media-capabilities/",
 		"title": "Media Capabilities"
 	},
+	"MEDIA-PLAYBACK-QUALITY": {
+		"href": "https://wicg.github.io/media-playback-quality/",
+		"title": "Media Playback Quality"
+	},
 	"MEDIASESSION": {
 		"href": "https://wicg.github.io/mediasession/",
 		"title": "Media Session"
