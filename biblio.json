@@ -15,6 +15,10 @@
 		"href": "https://wicg.github.io/animation-worklet/",
 		"title": "CSS Animation Worklet API"
 	},
+	"CSS-PARSER-API": {
+		"href": "https://wicg.github.io/CSS-Parser-API/",
+		"title": "CSS Parser API"
+	},
 	"CSS-SCROLL-BOUNDARY-BEHAVIOR": {
 		"href": "https://wicg.github.io/scroll-boundary-behavior/",
 		"title": "CSS Scroll Boundary Behavior Module Level 1"
