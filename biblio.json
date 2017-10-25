@@ -36,7 +36,7 @@
 		"title": "Feature Policy"
 	},
 	"FRAME-TIMING": {
-		"href": "http://wicg.github.io/frame-timing/",
+		"href": "https://wicg.github.io/frame-timing/",
 		"title": "Frame Timing"
 	},
 	"GEOLOCATION-SENSOR": {
