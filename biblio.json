@@ -15,13 +15,13 @@
 		"href": "https://wicg.github.io/animation-worklet/",
 		"title": "CSS Animation Worklet API"
 	},
+	"CSS-OVERSCROLL-BEHAVIOR": {
+		"href": "https://wicg.github.io/overscroll-behavior/",
+		"title": "CSS Overscroll Behavior Module Level 1"
+	},
 	"CSS-PARSER-API": {
 		"href": "https://wicg.github.io/CSS-Parser-API/",
 		"title": "CSS Parser API"
-	},
-	"CSS-SCROLL-BOUNDARY-BEHAVIOR": {
-		"href": "https://wicg.github.io/scroll-boundary-behavior/",
-		"title": "CSS Scroll Boundary Behavior Module Level 1"
 	},
 	"CORS-RFC1918": {
 		"href": "https://wicg.github.io/cors-rfc1918/",
