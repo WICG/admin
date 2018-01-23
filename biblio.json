@@ -75,6 +75,10 @@
 		"href": "https://wicg.github.io/origin-policy/",
 		"title": "Origin Policy"
 	},
+	"PICTURE-IN-PICTURE": {
+		"href": "https://wicg.github.io/picture-in-picture/",
+		"title": "Picture-in-Picture"
+	},
 	"RESIZE-OBSERVER": {
 		"href": "https://wicg.github.io/ResizeObserver/",
 		"title": "Resize Observer"
