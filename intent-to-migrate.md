@@ -1,6 +1,6 @@
 ## Intent to Migrate: < feature name or short change description >
 
-Use this as a template to include as an issue in your specification's repository. That issue can be closed after migration, but keep it as part of the public record. 
+Use this as a template to include as an issue in your specification's repository. That issue can be closed after migration, but keep it as part of the public record.
 
 ### Working group decision to adopt
 
@@ -40,14 +40,14 @@ What data do you have available that indicates that this enhancement will affect
 
 ### Security and Privacy
 
-Outline the security and privacy implications of your proposal for end-users. Otherwise, indicate if there are none.
+Outline the [security and privacy implications](https://w3ctag.github.io/security-questionnaire/) of your proposal for end-users. Otherwise, indicate if there are none.
 
 ### Accessibility
 
-Outline the implications of your proposal relative to access by everyone regardless of disability. Otherwise, indicate if there are none.
+Outline the [implications of your proposal](https://github.com/stevefaulkner/accessibility-spec-questionnaire/blob/master/accessibility-spec-questionnaire.md) relative to access by everyone regardless of disability. Otherwise, indicate if there are none.
 
 ### Internationalization
 
 Outline the implications of your proposal when used with different languages, scripts, and cultures. Otherwise, indicate if there are none.
 
-(this form was largely inspired from Blink Intent to Implement and Ship templates)
+(this form was largely inspired from [Blink Intent to Implement and Ship templates](https://docs.google.com/a/chromium.org/document/d/1vlTlsQKThwaX0-lj_iZbVTzyqY7LioqERU8DK3u3XjI/edit#bookmark=id.uptkx07pm53s))
