@@ -59,10 +59,6 @@
 		"href": "https://wicg.github.io/mediasession/",
 		"title": "Media Session"
 	},
-	"MST-CONTENT-HINT": {
-		"href": "https://wicg.github.io/mst-content-hint/",
-		"title": "MediaStreamTrack Content Hints"
-	},
 	"NETINFO": {
 		"href": "https://wicg.github.io/netinfo/",
 		"title": "Network Information API"
