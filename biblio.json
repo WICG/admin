@@ -47,6 +47,10 @@
 		"href": "https://wicg.github.io/InputDeviceCapabilities/",
 		"title": "Input Device Capabilities"
 	},
+	"KEYBOARD-MAP": {
+		"href": "https://wicg.github.io/keyboard-map/",
+		"title": "Keyboard Map"
+	},
 	"MEDIA-CAPABILITIES": {
 		"href": "https://wicg.github.io/media-capabilities/",
 		"title": "Media Capabilities"
