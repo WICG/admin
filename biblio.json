@@ -79,6 +79,10 @@
 		"href": "https://wicg.github.io/origin-policy/",
 		"title": "Origin Policy"
 	},
+	"PAGE-LIFECYCLE": {
+		"href": "https://wicg.github.io/page-lifecycle/spec.html",
+		"title": "Page Lifecycle"
+	},
 	"PICTURE-IN-PICTURE": {
 		"href": "https://wicg.github.io/picture-in-picture/",
 		"title": "Picture-in-Picture"
