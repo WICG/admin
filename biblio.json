@@ -75,6 +75,10 @@
 		"href": "https://wicg.github.io/picture-in-picture/",
 		"title": "Picture-in-Picture"
 	},
+	"PRIORITY-HINTS": {
+		"href": "https://wicg.github.io/priority-hints/",
+		"title": "Priority Hints"
+	},
 	"RESIZE-OBSERVER": {
 		"href": "https://wicg.github.io/ResizeObserver/",
 		"title": "Resize Observer"
