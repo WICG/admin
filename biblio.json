@@ -23,6 +23,10 @@
 		"href": "https://wicg.github.io/CSS-Parser-API/",
 		"title": "CSS Parser API"
 	},
+	"COOKIE-STORE": {
+		"href": "https://wicg.github.io/cookie-store/",
+		"title": "Cookie Store API"
+	},
 	"CORS-RFC1918": {
 		"href": "https://wicg.github.io/cors-rfc1918/",
 		"title": "CORS and RFC1918"
