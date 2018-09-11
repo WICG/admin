@@ -119,6 +119,10 @@
 		"href": "https://wicg.github.io/BackgroundSync/spec/",
 		"title": "Web Background Synchronization"
 	},
+	"WEB-LOCKS": {
+		"href": "https://wicg.github.io/web-locks/",
+		"title": "Web Locks API"
+	},
 	"WEB-SHARE": {
 		"href": "https://wicg.github.io/web-share/",
 		"title": "Web Share API"
