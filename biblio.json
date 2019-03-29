@@ -51,6 +51,10 @@
 		"href": "https://wicg.github.io/InputDeviceCapabilities/",
 		"title": "Input Device Capabilities"
 	},
+	"KEYBOARD-LOCK": {
+		"href": "https://wicg.github.io/keyboard-lock/",
+		"title": "Keyboard Lock"
+	},
 	"KEYBOARD-MAP": {
 		"href": "https://wicg.github.io/keyboard-map/",
 		"title": "Keyboard Map"
