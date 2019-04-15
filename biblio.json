@@ -103,6 +103,14 @@
 		"href": "https://wicg.github.io/page-lifecycle/spec.html",
 		"title": "Page Lifecycle"
 	},
+	"PERMISSIONS-REQUEST": {
+		"href": "https://wicg.github.io/permissions-request/",
+		"title": "Requesting Permissions"
+	},
+	"PERMISSIONS-REVOKE": {
+		"href": "https://wicg.github.io/permissions-revoke/",
+		"title": "Relinquishing Permissions"
+	},
 	"PICTURE-IN-PICTURE": {
 		"href": "https://wicg.github.io/picture-in-picture/",
 		"title": "Picture-in-Picture"
