@@ -7,6 +7,10 @@
 		"href": "https://wicg.github.io/background-fetch/",
 		"title": "Background Fetch"
 	},
+	"BADGING": {
+		"href": "https://wicg.github.io/badging/",
+		"title": "Badging API"
+	},
 	"BUDGET-API": {
 		"href": "https://wicg.github.io/budget-api/",
 		"title": "Web Budget API"
@@ -35,6 +39,10 @@
 		"href": "https://wicg.github.io/entries-api/",
 		"title": "File and Directory Entries API"
 	},
+	"EVENT-TIMING": {
+		"href": "https://wicg.github.io/event-timing/",
+		"title": "Event Timing API"
+	},
 	"FEATURE-POLICY": {
 		"href": "https://wicg.github.io/feature-policy/",
 		"title": "Feature Policy"
@@ -59,6 +67,10 @@
 		"href": "https://wicg.github.io/keyboard-map/",
 		"title": "Keyboard Map"
 	},
+	"KV-STORAGE": {
+		"href": "https://wicg.github.io/kv-storage/",
+		"title": "KV Storage"
+	},
 	"MEDIA-CAPABILITIES": {
 		"href": "https://wicg.github.io/media-capabilities/",
 		"title": "Media Capabilities"
@@ -70,6 +82,10 @@
 	"MEDIASESSION": {
 		"href": "https://wicg.github.io/mediasession/",
 		"title": "Media Session"
+	},
+	"NATIVE-FILE-SYSTEM": {
+		"href": "https://wicg.github.io/native-file-system/",
+		"title": "Native File System"
 	},
 	"NETINFO": {
 		"href": "https://wicg.github.io/netinfo/",
@@ -86,6 +102,14 @@
 	"PAGE-LIFECYCLE": {
 		"href": "https://wicg.github.io/page-lifecycle/spec.html",
 		"title": "Page Lifecycle"
+	},
+	"PERMISSIONS-REQUEST": {
+		"href": "https://wicg.github.io/permissions-request/",
+		"title": "Requesting Permissions"
+	},
+	"PERMISSIONS-REVOKE": {
+		"href": "https://wicg.github.io/permissions-revoke/",
+		"title": "Relinquishing Permissions"
 	},
 	"PICTURE-IN-PICTURE": {
 		"href": "https://wicg.github.io/picture-in-picture/",
@@ -114,6 +138,10 @@
 	"TEXT-DETECTION-API": {
 		"href": "https://wicg.github.io/shape-detection-api/text.html",
 		"title": "Accelerated Text Detection in Images"
+	},
+	"TRUSTED-TYPES": {
+		"href": "https://wicg.github.io/trusted-types/dist/spec/",
+		"title": "Trusted Types Spec WIP"
 	},
 	"VISUAL-VIEWPORT": {
 		"href": "https://wicg.github.io/visual-viewport/",
