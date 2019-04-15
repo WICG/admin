@@ -83,6 +83,10 @@
 		"href": "https://wicg.github.io/mediasession/",
 		"title": "Media Session"
 	},
+	"NATIVE-FILE-SYSTEM": {
+		"href": "https://wicg.github.io/native-file-system/",
+		"title": "Native File System"
+	},
 	"NETINFO": {
 		"href": "https://wicg.github.io/netinfo/",
 		"title": "Network Information API"
