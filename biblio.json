@@ -59,6 +59,10 @@
 		"href": "https://wicg.github.io/InputDeviceCapabilities/",
 		"title": "Input Device Capabilities"
 	},
+	"JS-SELF-PROFILING": {
+		"href": "https://wicg.github.io/js-self-profiling/",
+		"title": "JS Self-Profiling API"
+	},
 	"KEYBOARD-LOCK": {
 		"href": "https://wicg.github.io/keyboard-lock/",
 		"title": "Keyboard Lock"
