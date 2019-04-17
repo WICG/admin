@@ -43,10 +43,6 @@
 		"href": "https://wicg.github.io/event-timing/",
 		"title": "Event Timing API"
 	},
-	"FEATURE-POLICY": {
-		"href": "https://wicg.github.io/feature-policy/",
-		"title": "Feature Policy"
-	},
 	"FRAME-TIMING": {
 		"href": "https://wicg.github.io/frame-timing/",
 		"title": "Frame Timing"
