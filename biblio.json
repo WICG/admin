@@ -87,10 +87,6 @@
 		"href": "https://wicg.github.io/netinfo/",
 		"title": "Network Information API"
 	},
-	"NETWORK-ERROR-LOGGING": {
-		"href": "https://wicg.github.io/network-error-logging/",
-		"title": "Network Error Logging"
-	},
 	"ORIGIN-POLICY": {
 		"href": "https://wicg.github.io/origin-policy/",
 		"title": "Origin Policy"
