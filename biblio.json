@@ -47,10 +47,6 @@
 		"href": "https://wicg.github.io/frame-timing/",
 		"title": "Frame Timing"
 	},
-	"GEOLOCATION-SENSOR": {
-		"href": "https://wicg.github.io/geolocation-sensor/",
-		"title": "Geolocation Sensor"
-	},
 	"INPUT-DEVICE-CAPABILITIES": {
 		"href": "https://wicg.github.io/InputDeviceCapabilities/",
 		"title": "Input Device Capabilities"
