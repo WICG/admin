@@ -1,7 +1,7 @@
 # WICG admininstration repository
 This repo is for administration of the community group.
  
- * [Home page](https://wicg.io) - includes links to active specs. 
+ * [Home page - wicg.io](https://wicg.io) - includes links to active specs. 
  * [Transfering a repo to WICG](https://github.com/WICG/admin/wiki/Process-to-transfer-a-repo)
  * [Charter](https://wicg.github.io/admin/charter.html)
  * [Intent to migrate](intent-to-migrate.md)
