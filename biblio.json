@@ -63,6 +63,10 @@
 		"href": "https://wicg.github.io/kv-storage/",
 		"title": "KV Storage"
 	},
+	"LAYOUT-INSTABILITY": {
+		"href": "https://wicg.github.io/layout-instability/",
+		"title": "Layout Instability"
+	},
 	"LARGEST-CONTENTFUL-PAINT": {
 		"href": "https://wicg.github.io/largest-contentful-paint/",
 		"title": "Largest Contentful Paint"
