@@ -5,6 +5,7 @@ This repo is for administration of the community group.
  * [Transfering a repo to WICG](https://github.com/WICG/admin/wiki/Process-to-transfer-a-repo)
  * [Charter](https://wicg.github.io/admin/charter.html)
  * [Intent to migrate](intent-to-migrate.md)
+ * [State of incubations](https://docs.google.com/spreadsheets/d/1K2EtkvKXMDk_h2goR34uMIWmw1LfPhIi-QAJHcQBP_4/edit?usp=sharing)
 
 ## Communication
 [![Join the chat at https://gitter.im/WICG/admin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/WICG/admin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
