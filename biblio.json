@@ -84,7 +84,7 @@
 		"title": "Origin Policy"
 	},
 	"PAGE-LIFECYCLE": {
-		"href": "https://wicg.github.io/page-lifecycle/spec.html",
+		"href": "https://wicg.github.io/page-lifecycle/",
 		"title": "Page Lifecycle"
 	},
 	"PERMISSIONS-REQUEST": {
