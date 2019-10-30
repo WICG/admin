@@ -15,10 +15,6 @@
 		"href": "https://wicg.github.io/budget-api/",
 		"title": "Web Budget API"
 	},
-	"CSS-PARSER-API": {
-		"href": "https://wicg.github.io/CSS-Parser-API/",
-		"title": "CSS Parser API"
-	},
 	"COOKIE-STORE": {
 		"href": "https://wicg.github.io/cookie-store/",
 		"title": "Cookie Store API"
