@@ -103,6 +103,10 @@
 		"href": "https://wicg.github.io/shape-detection-api/",
 		"title": "Accelerated Shape Detection in Images"
 	},
+	"SPEECH-API": {
+		"href": "https://wicg.github.io/speech-api/",
+		"title": "Web Speech API"
+	},
 	"TEXT-DETECTION-API": {
 		"href": "https://wicg.github.io/shape-detection-api/text.html",
 		"title": "Accelerated Text Detection in Images"
