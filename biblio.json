@@ -127,10 +127,6 @@
 		"href": "https://wicg.github.io/web-locks/",
 		"title": "Web Locks API"
 	},
-	"WEB-SHARE": {
-		"href": "https://wicg.github.io/web-share/",
-		"title": "Web Share API"
-	},
 	"WEB-SHARE-TARGET": {
 		"href": "https://wicg.github.io/web-share-target/",
 		"title": "Web Share Target API"
