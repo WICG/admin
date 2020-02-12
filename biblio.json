@@ -123,6 +123,10 @@
 		"href": "https://wicg.github.io/BackgroundSync/spec/",
 		"title": "Web Background Synchronization"
 	},
+	"PERIODIC-BACKGROUND-SYNC": {
+		"href": "https://wicg.github.io/BackgroundSync/spec/PeriodicBackgroundSync-index.html",
+		"title": "Web Periodic Background Synchronization"
+	},
 	"WEB-LOCKS": {
 		"href": "https://wicg.github.io/web-locks/",
 		"title": "Web Locks API"
