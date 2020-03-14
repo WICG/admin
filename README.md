@@ -56,6 +56,7 @@ W3C is committed to maintain a **positive** work environment. This commitment ca
 [Harassment]: http://www.w3.org/Consortium/cepc/#Harassment
 [Workplace]: http://www.w3.org/Consortium/cepc/#Harassment
 [Sexual]: http://www.w3.org/Consortium/cepc/#Sexual
+[Discrimination]: https://www.w3.org/Consortium/cepc/#Discrimination
 [Demeaning]: http://www.w3.org/Consortium/cepc/#Demeaning
 [Insulting]: http://www.w3.org/Consortium/cepc/#Insulting
 [Acknowledgement]: http://www.w3.org/Consortium/cepc/#Acknowledgement
