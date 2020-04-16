@@ -15,6 +15,10 @@
 		"href": "https://wicg.github.io/budget-api/",
 		"title": "Web Budget API"
 	},
+  "CLIENT-HINTS-INFRASTRUCTURE": {
+    "href": "https://wicg.github.io/client-hints-infrastructure/",
+    "title": "Client Hints Infrastructure"
+  },
 	"COOKIE-STORE": {
 		"href": "https://wicg.github.io/cookie-store/",
 		"title": "Cookie Store API"
