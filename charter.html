@@ -19,6 +19,15 @@
       margin-bottom:9pt;
     }
     </style>
+    <script>
+      window.onload = () =>{
+        fillLastModified();
+      }
+      function fillLastModified(){
+        const lastmod = document.getElementById("lastmod");
+        lastmod.innerText = document.lastModified;
+      }
+    </script>
   </head>
   <body>
     <h1>
@@ -42,7 +51,9 @@
         Last Modified:
       </dt>
       <dd>
-        2 July 2015
+        <span id="lastmod"></span> (<a href=
+        "https://github.com/WICG/admin/commits/gh-pages/charter.html">Commit
+        History</a>)
       </dd>
     </dl>
     <p>
