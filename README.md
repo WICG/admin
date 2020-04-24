@@ -1,4 +1,4 @@
-# WICG admininstration repository
+# WICG administration repository
 This repo is for administration of the community group.
  
  * [Home page - wicg.io](https://wicg.io) - includes links to active specs. 
