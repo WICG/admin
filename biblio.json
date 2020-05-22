@@ -119,10 +119,6 @@
 		"href": "https://wicg.github.io/shape-detection-api/text.html",
 		"title": "Accelerated Text Detection in Images"
 	},
-	"TRUSTED-TYPES": {
-		"href": "https://wicg.github.io/trusted-types/dist/spec/",
-		"title": "Trusted Types Spec WIP"
-	},
 	"VISUAL-VIEWPORT": {
 		"href": "https://wicg.github.io/visual-viewport/",
 		"title": "Visual Viewport API"
