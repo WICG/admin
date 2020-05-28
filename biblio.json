@@ -120,7 +120,7 @@
 		"title": "Visual Viewport API"
 	},
 	"WEB-BACKGROUND-SYNC": {
-		"href": "https://wicg.github.io/BackgroundSync/spec/",
+		"href": "https://wicg.github.io/background-sync/spec/",
 		"title": "Web Background Synchronization"
 	},
 	"PERIODIC-BACKGROUND-SYNC": {
