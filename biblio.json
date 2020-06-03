@@ -27,6 +27,10 @@
 		"href": "https://wicg.github.io/cors-rfc1918/",
 		"title": "CORS and RFC1918"
 	},
+	"CSS-PARSER-API": {
+		"href": "https://wicg.github.io/css-parser-api/",
+		"title": "CSS Parser API"
+	},
 	"ELEMENT-TIMING": {
 		"href": "https://wicg.github.io/element-timing/",
 		"title": "Element Timing API"
