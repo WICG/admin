@@ -44,7 +44,7 @@
 		"title": "Frame Timing"
 	},
 	"INPUT-DEVICE-CAPABILITIES": {
-		"href": "https://wicg.github.io/InputDeviceCapabilities/",
+		"href": "https://wicg.github.io/input-device-capabilities/",
 		"title": "Input Device Capabilities"
 	},
 	"JS-SELF-PROFILING": {
