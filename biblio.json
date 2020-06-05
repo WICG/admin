@@ -135,10 +135,6 @@
 		"href": "https://wicg.github.io/web-locks/",
 		"title": "Web Locks API"
 	},
-	"WEB-SHARE-TARGET": {
-		"href": "https://wicg.github.io/web-share-target/",
-		"title": "Web Share Target API"
-	},
 	"WEBUSB": {
 		"href": "https://wicg.github.io/webusb/",
 		"title": "WebUSB API"
