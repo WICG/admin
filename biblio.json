@@ -7,10 +7,6 @@
 		"href": "https://wicg.github.io/background-fetch/",
 		"title": "Background Fetch"
 	},
-	"BADGING": {
-		"href": "https://wicg.github.io/badging/",
-		"title": "Badging API"
-	},
 	"BUDGET-API": {
 		"href": "https://wicg.github.io/budget-api/",
 		"title": "Web Budget API"
