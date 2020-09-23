@@ -43,6 +43,10 @@
 		"href": "https://wicg.github.io/event-timing/",
 		"title": "Event Timing API"
 	},
+	"FILE-SYSTEM-ACCESS": {
+		"href": "https://wicg.github.io/file-system-access/",
+		"title": "File System Access"
+	},
 	"FRAME-TIMING": {
 		"href": "https://wicg.github.io/frame-timing/",
 		"title": "Frame Timing"
@@ -74,10 +78,6 @@
 	"LARGEST-CONTENTFUL-PAINT": {
 		"href": "https://wicg.github.io/largest-contentful-paint/",
 		"title": "Largest Contentful Paint"
-	},
-	"NATIVE-FILE-SYSTEM": {
-		"href": "https://wicg.github.io/native-file-system/",
-		"title": "Native File System"
 	},
 	"NETINFO": {
 		"href": "https://wicg.github.io/netinfo/",
