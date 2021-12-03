@@ -139,10 +139,6 @@
 		"href": "https://wicg.github.io/periodic-background-sync/",
 		"title": "Web Periodic Background Synchronization"
 	},
-	"WEB-LOCKS": {
-		"href": "https://wicg.github.io/web-locks/",
-		"title": "Web Locks API"
-	},
 	"WEBUSB": {
 		"href": "https://wicg.github.io/webusb/",
 		"title": "WebUSB API"
