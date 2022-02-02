@@ -39,10 +39,6 @@
 		"href": "https://wicg.github.io/entries-api/",
 		"title": "File and Directory Entries API"
 	},
-	"EVENT-TIMING": {
-		"href": "https://wicg.github.io/event-timing/",
-		"title": "Event Timing API"
-	},
 	"FILE-SYSTEM-ACCESS": {
 		"href": "https://wicg.github.io/file-system-access/",
 		"title": "File System Access"
@@ -78,10 +74,6 @@
 	"LAYOUT-INSTABILITY": {
 		"href": "https://wicg.github.io/layout-instability/",
 		"title": "Layout Instability"
-	},
-	"LARGEST-CONTENTFUL-PAINT": {
-		"href": "https://wicg.github.io/largest-contentful-paint/",
-		"title": "Largest Contentful Paint"
 	},
 	"NETINFO": {
 		"href": "https://wicg.github.io/netinfo/",
