@@ -79,10 +79,6 @@
 		"href": "https://wicg.github.io/netinfo/",
 		"title": "Network Information API"
 	},
-	"ORIGIN-POLICY": {
-		"href": "https://wicg.github.io/origin-policy/",
-		"title": "Origin Policy"
-	},
 	"PAGE-LIFECYCLE": {
 		"href": "https://wicg.github.io/page-lifecycle/",
 		"title": "Page Lifecycle"
