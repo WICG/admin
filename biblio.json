@@ -67,10 +67,6 @@
 		"href": "https://wicg.github.io/keyboard-map/",
 		"title": "Keyboard Map"
 	},
-	"KV-STORAGE": {
-		"href": "https://wicg.github.io/kv-storage/",
-		"title": "KV Storage"
-	},
 	"LAYOUT-INSTABILITY": {
 		"href": "https://wicg.github.io/layout-instability/",
 		"title": "Layout Instability"
