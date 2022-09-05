@@ -126,5 +126,9 @@
 	"WEBUSB": {
 		"href": "https://wicg.github.io/webusb/",
 		"title": "WebUSB API"
+	},
+	"WINDOW-CONTROLS-OVERLAY": {
+		"href": "https://wicg.github.io/window-controls-overlay/",
+		"title": "Window Controls Overlay"
 	}
 }
