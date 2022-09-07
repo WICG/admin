@@ -71,6 +71,10 @@
 		"href": "https://wicg.github.io/layout-instability/",
 		"title": "Layout Instability"
 	},
+	"MANIFEST-INCUBATIONS": {
+		"href": "https://wicg.github.io/manifest-incubations/",
+		"title": "Manifest Incubations"
+	},
 	"NETINFO": {
 		"href": "https://wicg.github.io/netinfo/",
 		"title": "Network Information API"
