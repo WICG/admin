@@ -31,6 +31,10 @@
 		"href": "https://wicg.github.io/css-parser-api/",
 		"title": "CSS Parser API"
 	},
+	"DOCUMENT-POLICY": {
+		"href": "https://wicg.github.io/document-policy/",
+		"title": "Document Policy"
+	},
 	"ELEMENT-TIMING": {
 		"href": "https://wicg.github.io/element-timing/",
 		"title": "Element Timing API"
