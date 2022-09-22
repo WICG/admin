@@ -79,6 +79,10 @@
 		"href": "https://wicg.github.io/manifest-incubations/",
 		"title": "Manifest Incubations"
 	},
+	"MULTICAPTURE": {
+		"href": "https://wicg.github.io/multicapture/",
+		"title": "Multicapture"
+	},
 	"NETINFO": {
 		"href": "https://wicg.github.io/netinfo/",
 		"title": "Network Information API"
