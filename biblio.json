@@ -75,6 +75,10 @@
 		"href": "https://wicg.github.io/manifest-incubations/",
 		"title": "Manifest Incubations"
 	},
+	"MULTICAPTURE": {
+		"href": "https://wicg.github.io/multicapture/",
+		"title": "Multicapture"
+	},
 	"NETINFO": {
 		"href": "https://wicg.github.io/netinfo/",
 		"title": "Network Information API"
@@ -90,6 +94,10 @@
 	"PERMISSIONS-REVOKE": {
 		"href": "https://wicg.github.io/permissions-revoke/",
 		"title": "Relinquishing Permissions"
+	},
+	"PREFER-CURRENT-TAB": {
+		"href": "https://wicg.github.io/prefer-current-tab/",
+		"title": "preferCurrentTab"
 	},
 	"PRIORITY-HINTS": {
 		"href": "https://wicg.github.io/priority-hints/",
