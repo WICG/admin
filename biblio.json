@@ -143,6 +143,10 @@
 		"href": "https://wicg.github.io/webusb/",
 		"title": "WebUSB API"
 	},
+	"WEB-APP-LAUNCH": {
+		"href": "https://wicg.github.io/web-app-launch/",
+		"title": "Web App Launch Handler API"
+	},
 	"WINDOW-CONTROLS-OVERLAY": {
 		"href": "https://wicg.github.io/window-controls-overlay/",
 		"title": "Window Controls Overlay"
