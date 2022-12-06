@@ -75,6 +75,10 @@
 		"href": "https://wicg.github.io/layout-instability/",
 		"title": "Layout Instability"
 	},
+	"LOCAL-FONT-ACCESS": {
+		"href": "https://wicg.github.io/local-font-access/",
+		"title": "Local Font Access"
+	},
 	"MANIFEST-INCUBATIONS": {
 		"href": "https://wicg.github.io/manifest-incubations/",
 		"title": "Manifest Incubations"
