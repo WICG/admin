@@ -8,7 +8,7 @@ Link to working group decision to adopt this spec.
 
 ### Proposal
 
-Link to proposal (preferably in a github repository). You should have at least an unofficial proposal in hand and/or have discussed the API within the Web Incubator Community Group (WICG) before sending an intent to migrate. If your proposal is not yet at this stage of maturity, feel free to solicit feedback informally on discourse instead. You may be asked to create a github repository if there isn't one.
+Link to proposal (preferably in the [proposals repository](https://github.com/WICG/proposals)). You should have at least an unofficial proposal in hand and/or have discussed the API within the Web Incubator Community Group (WICG) before sending an intent to migrate. If your proposal is not yet at this stage of maturity, feel free to solicit feedback informally. You may be asked to create a github repository if there isn't one.
 
 ### Summary
 
