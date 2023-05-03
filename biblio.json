@@ -7,6 +7,10 @@
 		"href": "https://wicg.github.io/background-fetch/",
 		"title": "Background Fetch"
 	},
+	"BORDERLESS-MODE": {
+		"href": "https://wicg.github.io/manifest-incubations/borderless/",
+		"title": "Borderless Mode"
+	},
 	"BUDGET-API": {
 		"href": "https://wicg.github.io/budget-api/",
 		"title": "Web Budget API"
