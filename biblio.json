@@ -15,10 +15,6 @@
 		"href": "https://wicg.github.io/client-hints-infrastructure/",
 		"title": "Client Hints Infrastructure"
 	},
-	"COMPRESSION": {
-		"href": "https://wicg.github.io/compression/",
-		"title": "Compression Streams"
-	},
 	"COOKIE-STORE": {
 		"href": "https://wicg.github.io/cookie-store/",
 		"title": "Cookie Store API"
