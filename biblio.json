@@ -59,6 +59,10 @@
 		"href": "https://wicg.github.io/input-device-capabilities/",
 		"title": "Input Device Capabilities"
 	},
+	"ISOLATED-CONTEXTS": {
+		"href": "https://wicg.github.io/isolated-web-apps/isolated-contexts/",
+		"title": "Isolated Contexts"
+	},
 	"JS-SELF-PROFILING": {
 		"href": "https://wicg.github.io/js-self-profiling/",
 		"title": "JS Self-Profiling API"
