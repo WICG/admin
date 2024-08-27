@@ -60,7 +60,7 @@
 		"title": "Input Device Capabilities"
 	},
 	"ISOLATED-CONTEXTS": {
-		"href": "https://wicg.github.io/isolated-web-apps/isolated-contexts",
+		"href": "https://wicg.github.io/isolated-web-apps/isolated-contexts.html",
 		"title": "Isolated Contexts"
 	},
 	"JS-SELF-PROFILING": {
