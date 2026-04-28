@@ -26,6 +26,5 @@ After the repository is established under WICG, the chair handling the adoption 
 
 1. Notify the participants on the original issue in [WICG/proposals](https://github.com/WICG/proposals) and close that issue.
 2. Add the proposal to the WICG tracking sheet shared among chairs.
-3. Add the repository to W3C Repository Manager using the link in the tracking sheet.
-4. Make sure the repository includes and configures `w3c.json`, `CONTRIBUTING.md`, `LICENSE.md`, and `CODE_OF_CONDUCT.md`.
-5. Announce the new repository on public-new-work@w3.org.
+3. Add the repository to W3C Repository Manager using the link in the tracking sheet, and make sure the repository includes and configures `w3c.json`, `CONTRIBUTING.md`, `LICENSE.md`, and `CODE_OF_CONDUCT.md`.
+4. Announce the new repository on public-new-work@w3.org.
