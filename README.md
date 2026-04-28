@@ -4,7 +4,6 @@ This repo is for administration of the community group.
 
 - [Home page - wicg.io](https://wicg.io) - includes links to active incubations.
 - [Transferring a repo to WICG](https://github.com/WICG/admin/wiki/Process-to-transfer-a-repo)
-- [Adopting a proposal into WICG](adopting-a-proposal.md)
 - [Charter](https://wicg.github.io/admin/charter.html)
 - [Intent to migrate](intent-to-migrate.md)
 - [State of incubations](https://docs.google.com/spreadsheets/d/1K2EtkvKXMDk_h2goR34uMIWmw1LfPhIi-QAJHcQBP_4/edit?usp=sharing)
